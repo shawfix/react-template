@@ -28,13 +28,13 @@
       }
     },
     {
-      "files": "*.less}",
+      "files": "*.less",
       "options": {
         "parser": "less"
       }
     },
     {
-      "files": "*.scss}",
+      "files": "*.scss",
       "options": {
         "parser": "scss"
       }
