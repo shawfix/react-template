@@ -5,4 +5,3 @@ if [ -t 2 ]; then
 fi
 
 npx lint-staged -c .lintstagedrc.js
-# npm run changelog
