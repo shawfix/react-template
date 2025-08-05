@@ -1,0 +1,22 @@
+!.vscode
+!.*.js
+!.*.cjs
+!.*.mjs
+!.*.ts
+public
+server
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Build
+dist
+
+# Node
+node_modules
+pnpm-lock.yaml
+
+# Husky
+.husky

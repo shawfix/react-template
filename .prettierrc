@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/prettierrc.json",
+  "parser": "typescript",
+  "tabWidth": 2,
+  "printWidth": 100,
+  "semi": true,
+  "useTabs": false,
+  "singleQuote": true,
+  "editorconfig": true,
+  "bracketSpacing": true,
+  "jsxSingleQuote": false,
+  "bracketSameLine": false,
+  "pluginSearchDirs": false,
+  "endOfLine": "lf",
+  "arrowParens": "always",
+  "trailingComma": "all",
+  "plugins": [],
+  "overrides": []
+}
